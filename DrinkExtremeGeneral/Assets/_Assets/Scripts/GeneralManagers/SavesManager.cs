@@ -147,21 +147,6 @@ public class SavesManager
         PlayerPrefs.SetInt(Utils.GetConditionStringOf(condition), valFromUtils);
     }
 
-    [MenuItem("Drink Extreme/Saves/Delete all saved info")]
-    public static void DeleteAllSavedInfo()
-    {
-        if (Application.isPlaying)
-        {
-            Debug.LogError("Not avaliable in play mode");
-        }
-        else
-        {
-            Debug.LogWarning("Deleting of custom sentences trough this method is not implemented yet");
-            PlayerPrefs.DeleteAll();
-            Debug.Log("All player prefs have been deleted");
-        }
-    }
-
     public bool LoadRandomSentencesAllowed()
     {
         return PlayerPrefs.GetInt(Utils.randomSentencesAllowedSavename, Utils.defaultRandomSentencesAllowed ? Utils.trueVal : Utils.falseVal) == Utils.trueVal ? true : false;

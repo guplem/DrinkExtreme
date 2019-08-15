@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/Modes/Menu/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/Miscelanea/Utils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/Modes/YoNunca/YoNuncaManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/GeneralManagers/SavesManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/GeneralManagers/ASetupManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Assets/Scripts/Modes/Menu/MenuButtonMode.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -27,6 +28,7 @@
         <option value="$PROJECT_DIR$/Assets/_Assets/Scripts/Modes/Menu/MenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Assets/Scripts/Modes/Menu/MenuButtonMode.cs" />
         <option value="$PROJECT_DIR$/Assets/_Assets/Scripts/GeneralManagers/ASetupManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Assets/Scripts/Miscelanea/Utils.cs" />
       </list>
     </option>
   </component>
@@ -78,7 +80,7 @@
       <updated>1565860079030</updated>
       <workItem from="1565860080430" duration="1000" />
       <workItem from="1565860087142" duration="431000" />
-      <workItem from="1565874032237" duration="606000" />
+      <workItem from="1565874032237" duration="1227000" />
     </task>
     <servers />
   </component>
