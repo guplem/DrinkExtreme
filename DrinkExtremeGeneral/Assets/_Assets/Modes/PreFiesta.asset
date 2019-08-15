@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a7e2e10244c1804faf5ec81cf7d399a, type: 3}
+  m_Name: PreFiesta
+  m_EditorClassIdentifier: 
+  sceneName: PreFiesta
+  modeId: PF
+  modeNameId: PF_N
+  artworkId: PF_A
+  descriptionId: PF_D
+  SentenceIdBeggining: PF_S
+  typeOfMode: 0
+  modeToGoBack: {fileID: 11400000, guid: 31c98b8e882e33a4bb78ce630a9ce0a2, type: 2}
+  minNumberOfPlayers: 0
+  maxNumberOfPlayers: 0
+  showPlayersPanelAtBeginning: 0
+  showTypeOfSentencesPanelAtBeginning: 0
+  showChangeDifficultyPanelAtBeginning: 0
+  allowRandomSentencesCard: 1
+  allowCustomSentencesCard: 1
+  displayBannerAd: 1
