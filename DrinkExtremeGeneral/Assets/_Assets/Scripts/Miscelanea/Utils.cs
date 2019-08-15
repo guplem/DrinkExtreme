@@ -34,7 +34,7 @@ namespace DrinkExtreme
         public static readonly int columnNumberOfLanguageImgInLangInfoFile = 1; //Column "B" in the document
         public static readonly int columnNumberOfLanguageNameInLangInfoFile = 2; //Column "C" in the document
         public static readonly string mainLanguage = "es-es";
-        public static readonly string notLocalizableSentenceIdentifier = "######";
+        public static readonly string notLocalizableSentenceIdentifier = "#P##P##P##P##P##P#";
         public static readonly string localizedImagesPath = "LocalizableSprites/";
         public static readonly string localizationFileNameColumnId = "Id";
         public static readonly string localizationFileNameColumnType = "Type";

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\_GitsFolder\DrinkExtreme\DrinkExtremeGeneral" t="IncludeRecursive">
@@ -67,21 +67,6 @@
               </e>
             </e>
           </e>
-        </e>
-        <e p="OLD_English TxTs" t="Include">
-          <e p="RandomSentences_EN.txt" t="Include" />
-          <e p="taja_expres_EN.txt" t="Include" />
-          <e p="voa_picante_atrevimiento_EN.txt" t="Include" />
-          <e p="voa_picante_verdad_EN.txt" t="Include" />
-          <e p="voa_suave_atrevimiento_EN.txt" t="Include" />
-          <e p="voa_suave_verdad_EN.txt" t="Include" />
-          <e p="yn_adolescencia_EN.txt" t="Include" />
-          <e p="yn_alcohol_EN.txt" t="Include" />
-          <e p="yn_asquerosidad_EN.txt" t="Include" />
-          <e p="yn_instituto_EN.txt" t="Include" />
-          <e p="yn_sexualidad_EN.txt" t="Include" />
-          <e p="yn_trabajo_EN.txt" t="Include" />
-          <e p="yn_vergüenza_EN.txt" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Resources" t="Include">
